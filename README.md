@@ -380,7 +380,7 @@ Refresh the model.
 
 **Anuj kushawaha**
 
-LinkedIn:anuj-kushawaha-94789b291
+LinkedIn:https://www.linkedin.com/in/anuj-kushawaha-94789b291/
 
 GitHub: https://github.com/anuj12533
 
